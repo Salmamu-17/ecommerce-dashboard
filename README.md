@@ -9,10 +9,10 @@ Buka terminal atau Command Prompt dan navigasikan ke folder proyek, kemudian jal
       Mac/Linux: source vnd/bin/activate
 
 2. Instal semua yang diperlukan
-      pip install -r submission/requirements.txt
+      pip install -r requirements.txt
 
 3. Jalankan dashboard Streamlit
-      streamlit run submission/dashboard/dashboard.py
+      streamlit run dashboard/dashboard.py
 
 
 
